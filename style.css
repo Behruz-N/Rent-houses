@@ -752,3 +752,54 @@ header ul li a{
 .hhh1{
     color: rgba(42, 121, 65, 1);
 }
+.boxs13{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    padding: 20px 150px;
+}
+.boxs13_end{
+    padding: 30px 50px;
+    background: linear-gradient( to right, rgba(240, 231, 217, 1) 60%,rgba(240, 231, 217, 0.5)), url(./img/Rectangle\ 35.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: right;
+  
+    border-radius: 10px;
+}
+.boxs13_end_inputs{
+    margin-top: 50px;
+}
+.boxs13_end_inputs input{
+    border: none;
+    width: 327.5;
+    height: 55;
+    gap: 20px;
+    border-radius: 10px;
+    padding-top: 14px;
+    padding-right: 15px;
+    padding-bottom: 14px;
+    padding-left: 15px;
+    border-width: 1px;
+    background-color: rgba(255, 255, 255, 1);
+}
+.boxs13_end h1{
+    font-size: 45px;
+    line-height: 39.2px;
+    letter-spacing: 0%;
+}
+.btn5{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    width: 390px;
+    height: 50px;
+    padding: 20px;
+    font-size: 20px;
+    color: rgba(234, 245, 237, 1);
+    background-color: rgba(42, 121, 65, 1);
+    border: none;
+    border-radius: 10px;
+}
