@@ -309,6 +309,18 @@ header ul li a{
     gap: 8px;
     margin-top: 20px;
 }
+.telegram{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 20px;
+}
+.whatsapp{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 20px;
+}
 .instagram{
     display: flex;
     align-items: center;
